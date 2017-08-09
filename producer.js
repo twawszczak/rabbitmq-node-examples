@@ -11,7 +11,7 @@ const producerOptions = Object.assign({
   queueName: 'test-queue',
   durable: true,
   dlx: null,
-  messageSize: 1,
+  messageSize: null,
   messageContent: 'A',
   repeats: 1,
   logLevel: 'debug',
