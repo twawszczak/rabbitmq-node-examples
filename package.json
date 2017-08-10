@@ -1,6 +1,6 @@
 {
   "name": "rabbitmq-node-examples",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Examples of Node.js rabbitmq usage",
   "main": "producer.js",
   "repository": {
@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "amqplib": "^0.5.1",
-    "amqplib-as-promised": "^0.2.0",
+    "amqplib-as-promised": "0.3.0",
     "bunyan": "^1.8.12",
     "bunyan-format": "^0.2.1"
   },
