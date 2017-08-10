@@ -7,8 +7,10 @@
     "type": "git",
     "url": "https://github.com/twawszczak/rabbitmq-node-examples"
   },
+  "license": "MIT",
   "dependencies": {
     "amqplib": "^0.5.1",
+    "amqplib-as-promised": "^0.2.0",
     "bunyan": "^1.8.12",
     "bunyan-format": "^0.2.1"
   },
